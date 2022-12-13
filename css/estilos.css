@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Lalezar&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+body{
+  background-color: #e1f5fe;
+}
+h3,h4,h5{
+  font-family:'Lalezar', cursive;
+}
+p{
+  font-family:'Roboto', sans-serif;
+}
+.page-footer{
+  background-color: #37474f;
+}
+.waves-effect{
+  background-color: #37474f;
+}
+.-text{
+  padding: 5px;
+  margin: 0px auto;
+}
